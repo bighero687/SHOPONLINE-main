@@ -1356,6 +1356,26 @@ html[dir='rtl'] .itemside .info {
   padding-left: initial; }
 /*# sourceMappingURL=ui.css.map */
 /*Login*/
+
+/*Animation*/
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+@keyframes growth {
+    from {
+        transform: scale(var(--growth-from));
+    }
+
+    to {
+        transform: scale(var(--growth-to));
+    }
+}
 /*Modal*/
 .modal__login {
     position: fixed;
@@ -1363,6 +1383,8 @@ html[dir='rtl'] .itemside .info {
     left: 0;
     bottom: 0;
     right: 0;
+    animation: fadeIn linear 0.1s;
+    display: none;
 }
 .modal__overlay {
     position: absolute;
@@ -1370,6 +1392,12 @@ html[dir='rtl'] .itemside .info {
     height: 100%;
     background-color: rgba(0,0,0,0.4);
 }
+.modal__body {
+    --growth-from: 0.7;
+    --growth-to: 1;
+    animation: growth linear 0.1s;
+}
+
 .card-body, .input-group-append, .carousel-control-prev, .carousel-control-next {
     z-index: 0;
 }

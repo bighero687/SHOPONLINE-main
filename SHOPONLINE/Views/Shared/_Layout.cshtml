@@ -14,7 +14,8 @@
     <link href="~/Content/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
     <!-- jQuery -->
-    <script src="~/Content/js/jquery-2.0.0.min.js" type="text/javascript"></script>
+    @*<script src="~/Content/js/jquery-2.0.0.min.js" type="text/javascript"></script>*@
+    <script src="~/Content/js/jquery-3.6.0.min.js" type="text/javascript"></script>
 
     <!-- Bootstrap4 files-->
     <script src="~/Content/js/bootstrap.bundle.min.js" type="text/javascript"></script>
@@ -104,7 +105,7 @@
                                 </a>
                             </div>
                             <div class="widget-header mr-3">
-                                <a href="#" class="widget-view">
+                                <a href="#" class="widget-view" id="btn__Login">
                                     <div class="icon-area">
                                         <i class="fas fa-sign-in-alt"></i>
                                     </div>
@@ -256,7 +257,7 @@
     </footer>
     <!-- ========================= FOOTER END // ========================= -->
     <!-- ============================ COMPONENT LOGIN   ================================= -->
-    <div class="modal__login">
+    <div class="modal__login" id="form__login">
         <div class="modal__overlay">
 
         </div>
@@ -288,10 +289,12 @@
                 </div>
             </div>
         </div>
-
     </div>
-    
-
-
+    @*Show form login*@
+    <script type="text/javascript">
+        $("#btn__Login").click(funtion () {
+            $("#form__login").css("display", "block");
+        });
+    </script>
 </body>
 </html>
