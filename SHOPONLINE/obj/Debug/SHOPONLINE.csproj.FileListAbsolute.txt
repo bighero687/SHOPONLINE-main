@@ -1,0 +1,166 @@
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\SHOPONLINE.dll.config
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\SHOPONLINE.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\SHOPONLINE.pdb
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\csc.exe
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\csc.exe.config
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\csc.rsp
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\csi.exe
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\csi.exe.config
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\csi.rsp
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.AppContext.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Console.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.IO.Compression.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Net.Http.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.ValueTuple.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\vbc.exe
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\vbc.exe.config
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\vbc.rsp
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\VBCSCompiler.exe
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\Antlr3.Runtime.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\Newtonsoft.Json.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\System.Web.Helpers.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\System.Web.Mvc.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\System.Web.Optimization.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\System.Web.Razor.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\System.Web.WebPages.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\System.Web.WebPages.Razor.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\WebGrease.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\System.Web.Helpers.xml
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\System.Web.Mvc.xml
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\System.Web.Optimization.xml
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\System.Web.Razor.xml
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\System.Web.WebPages.xml
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\System.Web.WebPages.Razor.xml
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\Newtonsoft.Json.xml
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\Antlr3.Runtime.pdb
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\obj\Debug\SHOPONLINE.csproj.CoreCompileInputs.cache
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\obj\Debug\SHOPONLINE.csproj.CopyComplete
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\obj\Debug\SHOPONLINE.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\obj\Debug\SHOPONLINE.pdb
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\obj\Debug\SHOPONLINE.csprojAssemblyReference.cache
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\EntityFramework.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\EntityFramework.SqlServer.dll
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\EntityFramework.xml
+C:\Users\HOANG HAI\Desktop\IT\Dự An\shop onlinhe\SHOPONLINE\SHOPONLINE\bin\EntityFramework.SqlServer.xml
+D:\SHOPONLINE-main\SHOPONLINE\bin\SHOPONLINE.dll.config
+D:\SHOPONLINE-main\SHOPONLINE\bin\SHOPONLINE.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\SHOPONLINE.pdb
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\csc.exe
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\csc.exe.config
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\csc.rsp
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\csi.exe
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\csi.exe.config
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\csi.rsp
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.AppContext.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Collections.Immutable.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Console.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Globalization.Calendars.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.IO.Compression.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.IO.FileSystem.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Net.Http.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Net.Sockets.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Reflection.Metadata.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.ValueTuple.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Xml.XPath.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\vbc.exe
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\vbc.exe.config
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\vbc.rsp
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\VBCSCompiler.exe
+D:\SHOPONLINE-main\SHOPONLINE\bin\roslyn\VBCSCompiler.exe.config
+D:\SHOPONLINE-main\SHOPONLINE\bin\Antlr3.Runtime.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\EntityFramework.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\EntityFramework.SqlServer.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\Microsoft.Web.Infrastructure.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\Newtonsoft.Json.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\System.Web.Helpers.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\System.Web.Mvc.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\System.Web.Optimization.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\System.Web.Razor.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\System.Web.WebPages.Deployment.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\System.Web.WebPages.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\System.Web.WebPages.Razor.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\WebGrease.dll
+D:\SHOPONLINE-main\SHOPONLINE\bin\EntityFramework.xml
+D:\SHOPONLINE-main\SHOPONLINE\bin\EntityFramework.SqlServer.xml
+D:\SHOPONLINE-main\SHOPONLINE\bin\System.Web.Helpers.xml
+D:\SHOPONLINE-main\SHOPONLINE\bin\System.Web.Mvc.xml
+D:\SHOPONLINE-main\SHOPONLINE\bin\System.Web.Optimization.xml
+D:\SHOPONLINE-main\SHOPONLINE\bin\System.Web.Razor.xml
+D:\SHOPONLINE-main\SHOPONLINE\bin\System.Web.WebPages.xml
+D:\SHOPONLINE-main\SHOPONLINE\bin\System.Web.WebPages.Deployment.xml
+D:\SHOPONLINE-main\SHOPONLINE\bin\System.Web.WebPages.Razor.xml
+D:\SHOPONLINE-main\SHOPONLINE\bin\Newtonsoft.Json.xml
+D:\SHOPONLINE-main\SHOPONLINE\bin\Antlr3.Runtime.pdb
+D:\SHOPONLINE-main\SHOPONLINE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SHOPONLINE-main\SHOPONLINE\obj\Debug\SHOPONLINE.csproj.AssemblyReference.cache
+D:\SHOPONLINE-main\SHOPONLINE\obj\Debug\SHOPONLINE.csproj.CoreCompileInputs.cache
+D:\SHOPONLINE-main\SHOPONLINE\obj\Debug\SHOPONLINE.csproj.CopyComplete
+D:\SHOPONLINE-main\SHOPONLINE\obj\Debug\SHOPONLINE.dll
+D:\SHOPONLINE-main\SHOPONLINE\obj\Debug\SHOPONLINE.pdb
