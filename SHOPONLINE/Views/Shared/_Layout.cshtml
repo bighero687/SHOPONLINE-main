@@ -104,8 +104,8 @@
                                     <small class="text"> Cart </small>
                                 </a>
                             </div>
-                            <div class="widget-header mr-3">
-                                <a href="#" class="widget-view" id="btn__Login">
+                            <div class="widget-header mr-3" id="btn__Login">
+                                <a href="#" class="widget-view" >
                                     <div class="icon-area">
                                         <i class="fas fa-sign-in-alt"></i>
                                     </div>
@@ -258,7 +258,7 @@
     <!-- ========================= FOOTER END // ========================= -->
     <!-- ============================ COMPONENT LOGIN   ================================= -->
     <div class="modal__login" id="form__login">
-        <div class="modal__overlay">
+        <div class="modal__overlay" id="hide__form">
 
         </div>
         <div class="modal__body">
@@ -278,7 +278,10 @@
 
                             <div class="form-group">
                                 <a href="#" class="float-right">Forgot password?</a>
-                                <label class="float-left custom-control custom-checkbox"> <input type="checkbox" class="custom-control-input" checked=""> <div class="custom-control-label"> Remember </div> </label>
+                                <label class="float-left custom-control custom-checkbox"> 
+                                    <input type="checkbox" class="custom-control-input" checked=""> 
+                                    <div class="custom-control-label"> Remember </div> 
+                                </label>
                             </div> <!-- form-group form-check .// -->
                             <div class="form-group">
                                 <button type="submit" class="btn btn-primary btn-block"> Login  </button>
@@ -290,11 +293,18 @@
             </div>
         </div>
     </div>
-    @*Show form login*@
+    @*Show & Hide form login*@
     <script type="text/javascript">
-        $("#btn__Login").click(funtion () {
-            $("#form__login").css("display", "block");
+        //Show form login
+        $("#btn__Login").click(function () {
+            $("#form__login").show();
         });
+        //Hide form login
+        $("#hide__form").click(hideForm);
+        //Define function hideForm
+        function hideForm() {
+            $("#form__login").hide();
+        }
     </script>
 </body>
 </html>
