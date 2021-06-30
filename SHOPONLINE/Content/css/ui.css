@@ -391,7 +391,7 @@ p:last-child {
     display: inline-block;
     padding-right: 15px;
     background-color: #f6f7f9;
-    z-index: 2; }
+}
 
 .heading-line::before {
   top: 35%;
@@ -1355,3 +1355,24 @@ html[dir='rtl'] .itemside .info {
   padding-right: 15px;
   padding-left: initial; }
 /*# sourceMappingURL=ui.css.map */
+/*Login*/
+/*Modal*/
+.modal__login {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+.modal__overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.4);
+}
+.card-body, .input-group-append, .carousel-control-prev, .carousel-control-next {
+    z-index: 0;
+}
+.carousel-indicators {
+    z-index: 1;
+}
