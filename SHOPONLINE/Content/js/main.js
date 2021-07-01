@@ -10,15 +10,15 @@ function hideForm() {
 }
 $("#btn__signup").click(function () {
     $("#form__signup").show();
-    /*$("#form__login").hide();*/
 });
 $("#btn__login").click(function () {
-    /*$("#form__signup").hide();*/
     $("#form__login").show();
 });
-/*//Hide form login
-$("#hide__form").click(hideForm);
+
+//Hide form login
+$("#hide__form1").click(hideForm1);
 //Define function hideForm signup
-function hideForm() {
+function hideForm1() {
     $("#form__signup").hide();
-}*/
+    $("#form__login").hide();
+}
